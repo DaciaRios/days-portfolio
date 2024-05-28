@@ -1,6 +1,14 @@
 .App {
   text-align: center;
+  align-items: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: antiquewhite;
+  padding: 25px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
 
 .App-logo {
   height: 40vmin;
@@ -27,6 +35,39 @@
 .App-link {
   color: #61dafb;
 }
+.parallax {
+  height: 300px;
+  width: 100%;
+  background-attachment:fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition: background-size 1s;
+}
+
+/*
+.hero-bg {
+  background-image: url('./imgs/me.jpg');
+}
+*/
+.about-bg {
+  background-image: url('./imgs/beaumont.jpeg');
+}
+
+.education-bg {
+  background-image: url('./imgs/merged.jpeg');
+}
+
+.experience-bg {
+  background-image: url('./imgs/jobs.png'); 
+
+}
+
+.extra-bg {
+  background-image: url('./imgs/fab.png'); 
+
+}
+
 
 @keyframes App-logo-spin {
   from {
