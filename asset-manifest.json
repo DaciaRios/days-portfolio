@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/days-portfolio/static/css/main.eac7145e.css",
+    "main.js": "/days-portfolio/static/js/main.566c6822.js",
+    "static/js/453.1407b060.chunk.js": "/days-portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/intern.jpg": "/days-portfolio/static/media/intern.23f59dd4ddc0e7561a98.jpg",
+    "static/media/fab.png": "/days-portfolio/static/media/fab.cf1145bd5d37c1c57244.png",
+    "static/media/beaumont.jpeg": "/days-portfolio/static/media/beaumont.536541b3656f5f56b1c5.jpeg",
+    "static/media/jobs.png": "/days-portfolio/static/media/jobs.e995e4b7d1136a4bd02b.png",
+    "static/media/me.jpg": "/days-portfolio/static/media/me.aa29d4475bfe7be41146.jpg",
+    "static/media/Dacia_Rios_Resume.pdf": "/days-portfolio/static/media/Dacia_Rios_Resume.a8d1f35a19d9f4b8b81d.pdf",
+    "static/media/merged.jpeg": "/days-portfolio/static/media/merged.46cbfa18e684b5be7981.jpeg",
+    "index.html": "/days-portfolio/index.html",
+    "main.eac7145e.css.map": "/days-portfolio/static/css/main.eac7145e.css.map",
+    "main.566c6822.js.map": "/days-portfolio/static/js/main.566c6822.js.map",
+    "453.1407b060.chunk.js.map": "/days-portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eac7145e.css",
+    "static/js/main.566c6822.js"
+  ]
+}
